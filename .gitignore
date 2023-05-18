@@ -1,0 +1,8 @@
+# Folders
+.settings/
+bin/
+
+# Files
+.classpath
+.project
+TTS.iml
