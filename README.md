@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/designed for-windows-blue?style=flat&logo=windows" alt="Designed for and Tested on Windows">
     <img src="https://img.shields.io/badge/version-1.2-blue" alt="TTS v1.2">
     <img src="https://img.shields.io/badge/language-java-F58219?logo=oracle" alt="Written in Java">
-    <a target="_blank" href="https://github.com/Minimunch57/Project-O.N.E.-Controller/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-yellow" alt="Apache License v2.0"></a>
+    <a target="_blank" href="https://github.com/Minimunch57/TTS/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-yellow" alt="Apache License v2.0"></a>
 </p>
 
 ### 📃 Description
